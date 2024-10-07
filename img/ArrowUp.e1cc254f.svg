@@ -1,0 +1,19 @@
+<svg 
+    xmlns:xlink="http://www.w3.org/1999/xlink" 
+    xmlns="http://www.w3.org/2000/svg" 
+    set="ui"
+    name="caret-up"
+    class="Icon--icon--2aW0V Disclosure--SummaryIcon--m5hw-"
+    theme="" 
+    data-testid="Icon" 
+    viewBox="0 0 24 24"
+    width="24" 
+    height="24" 
+>
+    <title>Arrow Up</title>
+    <path 
+        d="M12 8.914l7.293 7.293a1 1 0 1 0 1.414-1.414l-8-8a1 1 0 0 0-1.414 0l-8 8a1 1 0 1 0 1.414 1.414L12 8.914z" 
+        fill="#1B4DE4"
+    >
+    </path>
+</svg>
